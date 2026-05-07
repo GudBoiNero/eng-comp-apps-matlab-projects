@@ -1,4 +1,4 @@
-# Engineering Computation Applications - MATLAB Projects
+# Engineering Computer Applications - MATLAB Projects
 
 This repository contains a curated set of MATLAB projects completed for engineering computation coursework.
 
